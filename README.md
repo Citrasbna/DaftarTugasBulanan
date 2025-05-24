@@ -15,7 +15,7 @@
 -Fitur utama:
 - Input data tugas, tanggal sekarang dan tanggal deadline
 - Perhitungan selisih dari deadline dan 
-- Output hasil IPK
+- Output list nama tugas, beserta deadline hari nya
 
 - Konsep yang digunakan: 
 - Input/output
@@ -23,5 +23,6 @@
 - If-else
 - Loop (perulangan)
 - Fungsi
-- Array 
+- Array
+  
 ## Link Video Demo
