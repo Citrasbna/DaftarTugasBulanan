@@ -7,8 +7,9 @@
 - Nama: Salsabila Aulia Choirunisa
 - Angkatan: 2022
 - Program Studi: Pendidikan Sistem dan Teknologi Informasi
+  
 ## Permintaan Program 
-> "Teh Caca ingin dibuatkan program catatan tugas kuliah" 
+ "Teh Caca ingin dibuatkan program catatan tugas kuliah" 
  
 ## Penjelasan Program 
 - Bahasa pemrograman yang digunakan: C
